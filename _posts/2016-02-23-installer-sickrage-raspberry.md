@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+title: Installer Sickrage sur le Raspberry Pi
 categories:
 -raspberry-pi
 ---
