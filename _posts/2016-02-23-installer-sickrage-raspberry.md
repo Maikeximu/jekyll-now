@@ -2,8 +2,7 @@
 layout: post
 published: true
 title: Installer Sickrage sur le Raspberry Pi
-categories:
--raspberry-pi
+categories: raspberry-pi
 ---
 Sickrage vous permet d'automatiser le téléchargement de vos séries préférées. Voici comment procéder. Cela vous permettra d'utiliser au mieux votre Raspberry afin qu'il automatise au maximum les tâches répétitives. Ce tutoriel, couplé à un Media Center de type OSMC/OpenElec vous permettra d'intégrer vos séries à votre MediaCenter.
 
