@@ -1,4 +1,6 @@
 ---
+layout: post
+title: "Installer Sickrage sur un Raspberry Pi"
 published: true
 ---
 
